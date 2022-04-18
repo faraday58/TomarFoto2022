@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TomarFoto2022</string>
+    <string name="strTitulo">Ingresa el título del producto</string>
+    <string name="strAgregaImagen">Agregar Imagen</string>
+    <string name="strDescripcion">Ingresa la descripción</string>
+    <string name="strAgregaProducto">Agregar Producto</string>
+</resources>
